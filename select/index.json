@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "We Are The Music",
+  "base_artist": "水瀬いのり",
+  "createdAt": "2026-01-13T08:20:30.983879Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "We Are the Cowboys",
+      "artist": "Willie Nelson",
+      "has_synced": true,
+      "path": "select/01_We_Are_the_Cowboys_Willie_Nelson.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "We Are the Champions",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/02_We_Are_the_Champions_Queen.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "We Are The Champions",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/03_We_Are_The_Champions_Queen.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "We Are The Dead - 1999 Remastered Version",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/04_We_Are_The_Dead_-_1999_Remastered_Version_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "We Are The Dead",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/05_We_Are_The_Dead_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "For We Are the King of the Boudoir",
+      "artist": "The Magnetic Fields",
+      "has_synced": true,
+      "path": "select/06_For_We_Are_the_King_of_the_Boudoir_The_Magnetic_Fields.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "We Are the Pagans",
+      "artist": "Black Moth Super Rainbow",
+      "has_synced": false,
+      "path": "select/07_We_Are_the_Pagans_Black_Moth_Super_Rainbow.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "We Are the World",
+      "artist": "U.S.A. for Africa",
+      "has_synced": true,
+      "path": "select/08_We_Are_the_World_U.S.A._for_Africa.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "We Are the World (カラオケ)",
+      "artist": "USA for Africa",
+      "has_synced": false,
+      "path": "select/09_We_Are_the_World_(カラオケ)_USA_for_Africa.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "We Are the Greatest",
+      "artist": "Scooter",
+      "has_synced": true,
+      "path": "select/10_We_Are_the_Greatest_Scooter.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "We Are the World",
+      "artist": "Twenty 4 Seven",
+      "has_synced": true,
+      "path": "select/11_We_Are_the_World_Twenty_4_Seven.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "We Are the World (The World According to Ruyters & Romero Remix)",
+      "artist": "Twenty 4 Seven",
+      "has_synced": false,
+      "path": "select/12_We_Are_the_World_(The_World_According_to_Ruyters_&_Romero_Remix)_Twenty_4_Seven.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "We Are the Ones",
+      "artist": "Son Lux",
+      "has_synced": true,
+      "path": "select/13_We_Are_the_Ones_Son_Lux.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "We Are the Music Makers",
+      "artist": "Aphex Twin",
+      "has_synced": true,
+      "path": "select/14_We_Are_the_Music_Makers_Aphex_Twin.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "We Are The Music",
+      "artist": "水瀬いのり",
+      "has_synced": false,
+      "path": "select/pl_01_We_Are_The_Music_水瀬いのり.txt"
+    }
+  ]
+}
